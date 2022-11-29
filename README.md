@@ -1,6 +1,6 @@
 # Album Splitter Reformat
 
-## This script takes the output from the [album-splitter](https://github.com/crisbal/album-splitter) package and modifies the output in the following ways:
+## This script takes the output from the [album-splitter](https://github.com/crisbal/album-splitter) package and modifies it in the following ways:
 * Converts from .wav to .mp3
 * Removes track number from the title
 * Adds metadata from command line arguments (song title, album title, artist)
